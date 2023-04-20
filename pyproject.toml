@@ -8,7 +8,7 @@ readme = "README.md"
 authors = [{name = "Rearc Data", email = "data@rearc.io"}]
 dynamic = ["version", "description"]
 dependencies = [
-    "apinator~=0.0.2",
+    "apinator>=0.0.3",
 ]
 requires-python = ">=3.7"
 
